@@ -1,0 +1,4 @@
+aws:
+  dynamodb:
+    accessKeyId: dummy
+    secretKey: dummy
